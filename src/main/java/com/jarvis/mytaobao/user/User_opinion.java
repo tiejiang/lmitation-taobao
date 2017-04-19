@@ -1,15 +1,13 @@
 package com.jarvis.mytaobao.user;
 
-import com.jarvis.mytaobaotest.R;
-
 import android.app.Activity;
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.jarvis.mytaobaotest.R;
 
 /**
  * 意见反馈界面
@@ -47,9 +45,9 @@ public class User_opinion extends Activity implements OnClickListener {
 			break;
 		case R.id.tv_goMyshop:
 			//进入恋上猫女衣坊的网店
-			Uri uri = Uri.parse("http://yecaoly.taobao.com"); 
-			Intent intent = new Intent(Intent.ACTION_VIEW, uri); 
-			startActivity(intent);
+//			Uri uri = Uri.parse("http://yecaoly.taobao.com");
+//			Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+//			startActivity(intent);
 			break;
 		default:
 			break;

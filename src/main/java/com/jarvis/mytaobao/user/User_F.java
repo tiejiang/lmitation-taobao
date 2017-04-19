@@ -103,9 +103,9 @@ public class User_F extends Fragment implements OnClickListener {
 			break;
 		case R.id.ll_user_opinion:
 			//意见反馈界面
-			Intent intent4=new Intent(getActivity(),User_opinion.class);
-			startActivity(intent4);
-			break;
+//			Intent intent4=new Intent(getActivity(),User_opinion.class);
+//			startActivity(intent4);
+//			break;
 
 		default:
 			break;
