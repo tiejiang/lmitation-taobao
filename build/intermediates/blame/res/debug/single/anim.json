@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/cu_push_left_out.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/cu_push_left_out.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/cu_push_right_in.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/cu_push_right_in.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/down_in.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/down_in.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/cu_push_right_out.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/cu_push_right_out.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/up_out.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/up_out.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/cu_push_left_in.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/cu_push_left_in.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/pop_up_in.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/pop_up_in.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/anim/pop_down_out.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/anim/pop_down_out.xml"
+    }
+]

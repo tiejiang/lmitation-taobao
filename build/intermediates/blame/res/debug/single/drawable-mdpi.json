@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/drawable-mdpi/second_2.png",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/drawable-mdpi/second_2.png"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/drawable-mdpi/second_2_collection.png",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/drawable-mdpi/second_2_collection.png"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/cart_stock_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/cart_stock_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/babydetail_a.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/babydetail_a.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/top_menu_txt.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/top_menu_txt.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/hellosener.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/hellosener.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_listview_detail.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_listview_detail.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_popwindow.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_popwindow.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_grid_hot_home.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_grid_hot_home.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_listview_tao.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_listview_tao.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/home_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/home_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/cart_low_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/cart_low_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/buy_now_a.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/buy_now_a.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/pic_item.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/pic_item.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/top_menu_back.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/top_menu_back.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/show_big_pictrue_a.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/show_big_pictrue_a.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/tao_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/tao_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/ware_a.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/ware_a.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/scale_pic_item.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/scale_pic_item.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_listview_ware.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_listview_ware.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/main_fa.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/main_fa.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/slide_view_merge.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/slide_view_merge.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/user_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/user_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_listview_cart.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_listview_cart.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/cart_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/cart_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/capture.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/capture.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/user_life.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/user_life.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/sc_gridview_item.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/sc_gridview_item.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/dicover_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/dicover_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/user_opinion.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/user_opinion.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/top_menu.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/top_menu.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/adapter_grid_home.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/adapter_grid_home.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/cart_all_f.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/cart_all_f.xml"
+    },
+    {
+        "merged": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/build/intermediates/res/merged/debug/layout/upload_a.xml",
+        "source": "/home/tiejiang/AndroidStudioProjects/Application/lmitationtaobao/src/main/res/layout/upload_a.xml"
+    }
+]
